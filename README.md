@@ -6,10 +6,11 @@ Implementation of a 3-tier web application.
 
 This application has the following features:
   * There are three types of users, admins, clients and sellers.
-  * Admins have access to all the details about users and programs and also have the ability to create new users and new programs. 
-  * Sellers can create/view and change client account.
-  * Clients can view their history call log and their debt.
-  * Users can login to the application, using their username and password.
+  * Admins have access to all the details about users and programs.
+  * Admins have the ability to create new users and new programs. 
+  * Sellers can create/view and modify client account.
+  * Clients can view their history call log and their debt(if there is any).
+  * Users can login to the application using their username and password.
 
 ## Prerequisites
 
