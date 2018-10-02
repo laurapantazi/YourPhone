@@ -1,6 +1,6 @@
 # YourPhone
 
-Implementation of a 3-tier web application. 
+Implementation of a 3-tier Java web application for a telephone company. 
 
 ## Functionality Overview
 
