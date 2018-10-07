@@ -1,0 +1,4 @@
+$ cat .gitattributes
+*.rb linguist-language=Java
+*.rb linguist-vendored=Java
+WebContent/Bootstrap/* linguist-vendored=true
